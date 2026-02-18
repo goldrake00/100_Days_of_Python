@@ -5,4 +5,7 @@ Use VSC to create python code
 Printing
 Commenting
 String manipulationa and concatenation
+Debugging
+Variables
+
 
