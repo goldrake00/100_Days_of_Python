@@ -1,7 +1,7 @@
-Learning Objectives
+## Learning Objectives
 
 Install the Python Version 3
-Use VSC to create python code
+Use VSC as IDE
 Printing
 Commenting
 String manipulationa and concatenation
