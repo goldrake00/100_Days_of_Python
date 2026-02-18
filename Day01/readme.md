@@ -9,9 +9,8 @@
 - Variables
 
 
-### What I learned
-- Printing
-- Commenting
-- Debugging
-- String Manipulation
-- Variables 
+### The Challenge
+- Create a program that generates a band name from the inputs of the user
+
+
+### Solution
