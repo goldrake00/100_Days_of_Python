@@ -1,6 +1,6 @@
-## Learning Objectives
+## Day 1: Learning Objectives - What I learned
 
-- Install the Python Version 3
+- Install Python Version 3 for MAC
 - Use VSC as IDE
 - Printing
 - Commenting
