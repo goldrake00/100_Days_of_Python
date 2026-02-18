@@ -9,3 +9,9 @@ Debugging
 Variables
 
 
+### What I learned
+- Printing
+- Commenting
+- Debugging
+- String Manipulation
+- Variables 
