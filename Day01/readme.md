@@ -1,12 +1,12 @@
 ## Learning Objectives
 
-Install the Python Version 3
-Use VSC as IDE
-Printing
-Commenting
-String manipulationa and concatenation
-Debugging
-Variables
+- Install the Python Version 3
+- Use VSC as IDE
+- Printing
+- Commenting
+- String manipulationa and concatenation
+- Debugging
+- Variables
 
 
 ### What I learned
