@@ -2,7 +2,8 @@
 
 - Install Python Version 3 for MAC
 - Use VSC as IDE
-- Printing
+- Printing: Print()
+- Capture User Input: input()
 - Commenting
 - String manipulationa and concatenation
 - Debugging
