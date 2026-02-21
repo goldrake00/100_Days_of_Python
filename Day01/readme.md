@@ -1,4 +1,4 @@
-## Day 1: Learning Objectives - What I learned
+## Day 1: Learning Objectives - What I learned ?
 
 - Install Python Version 3 for MAC
 - Use VSC as IDE
@@ -14,4 +14,4 @@
 - Create a program that generates a band name from the inputs of the user
 
 
-### Solution
+
