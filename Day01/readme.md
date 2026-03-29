@@ -1,4 +1,5 @@
-# Day 1: Beginner - Working with variables to manage data
+# Day 1
+# Beginner - Working with variables to manage data
 
 ## Learning Objectives - What I learned ?
 
