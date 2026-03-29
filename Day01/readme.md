@@ -1,6 +1,6 @@
-## Day 1: Beginner - Working with variables to manage data
+# Day 1: Beginner - Working with variables to manage data
 
-# Learning Objectives - What I learned ?
+## Learning Objectives - What I learned ?
 
 - Install Python Version 3 for MAC
 - Use VSC as IDE
