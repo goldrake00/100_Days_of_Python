@@ -9,7 +9,7 @@
 - f-Strings
 
 
-### The Challenge
+## The Challenge
 - Create a simple python program that calculates tips from the final bill
 
 
